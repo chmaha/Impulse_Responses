@@ -4,5 +4,5 @@ Artificial impulse responses using ideas in https://www.aes.org/e-lib/browse.cfm
 
 IRs
 ===
-concert_hall_2_seconds.wav - regular stereo (2-channel)  
-concert_hall_2_seconds_TS.wav - true stereo (4-channel)
+concert_hall.wav - regular stereo (2-channel, c. 1.5 seconds decay)  
+concert_hall_TS.wav - true stereo (4-channel, c. 1.5 seconds decay)
